@@ -6,14 +6,11 @@ Nestjs tutorial.. For study 2020.07.23
 ```
 npm i -g @nestjs/cli
 ```
----
 
----
 ## Start
 ```
 nest new nest-next-typescript
 ```
----
 
 ### Directory
 ```
