@@ -1,5 +1,6 @@
 # NestJS
-Nestjs tutorial.. For study 2020.07.23
+Nestjs tutorial.. For Korean students 
+2020.07.23 ~
 
 ---
 ## Download
@@ -142,6 +143,16 @@ export class LoggerMiddleware implements NestMiddleware {
 ## Authentication
 
 ### Passport library
+
+JWT strategy를 이용하여 인증을 진행
+Vanilla Passport
+
+#### Download
+```
+npm install --save @nestjs/passport passport passport-local
+npm install --save-dev @types/passport-local
+```
+
 
 
 
